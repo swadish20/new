@@ -1,0 +1,22 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  font-family: sans-serif;
+  margin-top: 50px;
+}
+
+button {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.result {
+  margin-top: 30px;
+}
+
+.coin-image {
+  width: 150px;
+  height: 150px;
+  margin-top: 10px;
+}
